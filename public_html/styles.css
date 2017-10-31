@@ -1,0 +1,42 @@
+
+/* 
+  
+    Christie Altadonna
+    cha415
+    CSE 264
+    Magnetic Poetry
+*/
+
+html{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: white;
+    position: absolute;
+
+}
+
+#addDiv{
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#newWord{
+   height: 32px;
+}
+
+#addWordButton{
+    left: 16%;
+}
+
+#trashcan{
+    left: 26%;
+}
+
+.word{
+    top: 20%;
+}
+
